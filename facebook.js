@@ -48,7 +48,7 @@ function Facebook(accessToken, groupId)
             `# TIN TỨC BUỔI TỐI ${date}\n` +
             '\n' +
             '## thông tin\n' +
-            '* Bài viết được tự động đăng lúc 7 giờ tối ngày\n' + 
+            '* Bài viết được tự động đăng lúc 7 giờ tối mỗi ngày\n' + 
             '* Bài viết được đăng bởi Lerni và lấy dữ liệu từ VNExpress. Cảm ơn bạn đã tạo ra một con bot rất tuyệt với');
         formPublish.append('formatting', 'MARKDOWN');
 
