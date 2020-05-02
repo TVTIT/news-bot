@@ -49,7 +49,7 @@ function Facebook(accessToken, groupId)
             '\n' +
             '## thông tin\n' +
             '* Bài viết được tự động đăng lúc 7 giờ tối ngày\n' + 
-            '* Bài viết được đăng bởi Lerni và lấy dữ liệu từ VNExpress. Cảm ơn bạn đã tạo ra một con bot rất tuyệt với);
+            '* Bài viết được đăng bởi Lerni và lấy dữ liệu từ VNExpress. Cảm ơn bạn đã tạo ra một con bot rất tuyệt với');
         formPublish.append('formatting', 'MARKDOWN');
 
         for (let i = 0; i < images.length ; i++) {
